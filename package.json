@@ -10,7 +10,7 @@
     "@types/react": "16.8.23",
     "@types/react-dom": "16.8.4",
     "@types/webpack": "4.4.35",
-    "@types/webpack-dev-middleware": "2.0.3",
+    "@types/webpack-dev-middleware": "3.7.0",
     "@types/webpack-env": "1.14.0",
     "@types/webpack-hot-middleware": "2.16.5",
     "@typescript-eslint/eslint-plugin": "1.12.0",
@@ -30,7 +30,7 @@
     "typescript": "3.5.3",
     "webpack": "4.35.3",
     "webpack-cli": "3.3.6",
-    "webpack-dev-middleware": "3.7.0",
+    "webpack-dev-middleware": "3.7.2",
     "webpack-hot-middleware": "2.25.0"
   },
   "dependencies": {
