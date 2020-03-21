@@ -12,7 +12,7 @@
     "@types/webpack": "4.4.35",
     "@types/webpack-dev-middleware": "2.0.3",
     "@types/webpack-env": "1.14.0",
-    "@types/webpack-hot-middleware": "2.16.5",
+    "@types/webpack-hot-middleware": "2.25.0",
     "@typescript-eslint/eslint-plugin": "1.12.0",
     "eslint": "5.16.0",
     "eslint-config-prettier": "4.3.0",
