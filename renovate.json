@@ -1,5 +1,5 @@
 {
   "extends": [
-    "github>kei711/renovate-config:all-non-major"
+    "github>kei711/renovate-config:group-cutom-rules"
   ]
 }
